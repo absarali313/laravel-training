@@ -1,6 +1,6 @@
 <?php 
 
-$greeting = "Hello World test1 ";
+$greeting = "Hello World main ";
 echo "$greeting"; 
 
 ?>
