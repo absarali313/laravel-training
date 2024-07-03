@@ -1,1 +1,6 @@
-<?php echo "Hello" ?>
+<?php 
+
+$greeting = "Hello World";
+echo "$greeting"; 
+
+?>
